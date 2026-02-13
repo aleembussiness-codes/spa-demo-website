@@ -3,8 +3,7 @@ import { MessageCircle, Clock, MapPin, Leaf, Award, Heart, Menu, X, ArrowRight, 
 import { useState, useEffect } from 'react';
 import SmoothImage from './components/SmoothImage';
 
-const WHATSAPP_URL = 'https://wa.me/1234567890?text=I%20would%20like%20to%20book%20a%20spa%20session';
-
+const WHATSAPP_URL = 'https://wa.me/923104909026?text=I%20would%20like%20to%20book%20a%20spa%20session';
 function App() {
   const [loading, setLoading] = useState(true);
   const [isScrolled, setIsScrolled] = useState(false);
